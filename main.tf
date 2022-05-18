@@ -16,6 +16,7 @@ resource "aws_instance" "garden_linux" {
   # https://github.com/gardenlinux/gardenlinux/releases/tag/576.9
   ami           = "ami-04571dd02adce654b"
   instance_type = "t2.micro"
+  key_name      = "garden"
 
   tags = {
     Name = "GardenLinux"
