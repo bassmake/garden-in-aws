@@ -1,5 +1,5 @@
 # Garden in AWS
 
 ```console
-ssh -i "~/.ssh/garden.cer" root@ec2-35-158-129-170.eu-central-1.compute.amazonaws.com
+ssh -i "~/.ssh/garden.cer" root@ec2-3-66-198-127.eu-central-1.compute.amazonaws.com
 ```
