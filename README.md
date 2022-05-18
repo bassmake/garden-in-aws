@@ -1,1 +1,1 @@
-# garden-in-aws
+# Garden in AWS
